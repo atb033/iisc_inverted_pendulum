@@ -1,1 +1,3 @@
-# iisc_inverted_pendulum
+# Inverted pendulum
+
+Implemented an inverted pendulum using arduino and Matlab
